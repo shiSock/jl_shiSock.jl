@@ -1,0 +1,4 @@
+name = "jl_shiSock"
+uuid = "a7214fc8-fc1b-4e08-befe-a9fefd66ee99"
+authors = ["= <=>"]
+version = "0.1.0"
